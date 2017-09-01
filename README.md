@@ -32,6 +32,6 @@ Technologies: Components Required:
 7. 330 Ω resistors
 
 			
-Sources: None, except for myself.
+Sources: IEEE for components and some base code.
 
 
