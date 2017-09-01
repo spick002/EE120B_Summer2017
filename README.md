@@ -2,6 +2,8 @@
 Sean Pickman
 spick002@ucr.edu
 
+https://youtu.be/SR6Lsp7ge14
+
 Custom Project Title: JukeBox_Hero
 
 High-Level Description:
