@@ -34,4 +34,4 @@ Technologies: Components Required:
 			
 Sources: IEEE for components and some base code.
 
-
+main.c is source code for project.  All coding was done within Atmel Studio 7.0
